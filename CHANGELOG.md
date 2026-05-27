@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.7.0](https://github.com/googleapis/python-genai/compare/v2.6.0...v2.7.0) (2026-05-27)
+
+
+### Features
+
+* **interaction-api:** Enable BigQuery tool in Deep Research config. ([5dc17e5](https://github.com/googleapis/python-genai/commit/5dc17e53eec9f3bfbdb39a6a4c8f92a45868167e))
+* Support Reinforcement Tuning in GenAI SDK ([0ead888](https://github.com/googleapis/python-genai/commit/0ead8888695f379ecf35cfc68d69e4b7e8e20403))
+
 ## [2.6.0](https://github.com/googleapis/python-genai/compare/v2.5.0...v2.6.0) (2026-05-21)
 
 
